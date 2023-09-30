@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![GitHub contributors](https://img.shields.io/github/contributors/nikhilkalhan92/React-Admin-Dashboard-Template-Design)
+![GitHub last commit](https://img.shields.io/github/last-commit/nikhilkalhan92/React-Admin-Dashboard-Template-Design)
+![GitHub language count](https://img.shields.io/github/languages/count/nikhilkalhan92/React-Admin-Dashboard-Template-Design)
+![GitHub top language](https://img.shields.io/github/languages/top/nikhilkalhan92/React-Admin-Dashboard-Template-Design)
+
+**Pages**
+
+![Homepage](/homepage.png)
+![Homepage2](/homepage2.png)
+![addnewuser](/addnewuser.png)
+![profile](/profile.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
